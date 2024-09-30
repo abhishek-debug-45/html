@@ -1,0 +1,36 @@
+*{
+
+}
+
+
+.box{
+    background-color: rgba(255, 235, 205, 0.427);
+    height:400px;
+    width:400px;
+}
+
+
+
+.box2{
+    background-color: rgba(0, 255, 255, 0.486);
+    height:400px;
+    width:400px;
+}
+    
+.box3{
+    background: url(krishna.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    height:400px;
+    width:400px;
+}
+.box4{
+    background: url(worldchampion.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right;
+    height:400px;
+    width:400px;
+}
+
