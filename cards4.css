@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.main{
+    height: 900px;
+    width: 90%px;
+    background-color:rgba(150, 146, 146, 0.612);
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 30px;
+    
+}
+
+.box1{
+    height: 500px;
+    width: 500px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.img1{
+    height: 300px;
+    width: 90%;
+   
+    background-size: cover;
+}
+
+.img1 img{
+    height: 90%;
+    width: 100%;
+
+}
+
+.heding1{
+ height:20%;
+ width:90%;
+ 
+}
+
+
+
+
+
+.buton1{
+    height: 50px;
+    width: 90%;
+    background-color: #387dd19d;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.buton1{
+    color: blue;
+}
+
+
+
+
+.box2{
+    height: 500px;
+    width: 500px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.img2{
+    height: 300px;
+    width: 90%;
+   
+    background-size: cover;
+}
+
+.img2 img{
+    height: 90%;
+    width: 100%;
+
+}
+
+.heding2{
+ height:20%;
+ width:90%;
+ 
+}
+
+
+
+
+
+.buton2{
+    height: 50px;
+    width: 90%;
+    background-color: #387dd19d;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.buton2{
+    color: blue;
+}
+
+
+.box3{
+    height: 500px;
+    width: 500px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.img3{
+    height: 300px;
+    width: 90%;
+   
+    background-size: cover;
+}
+
+.img3 img{
+    height: 90%;
+    width: 100%;
+
+}
+
+.heding3{
+ height:20%;
+ width:90%;
+ 
+}
+
+
+
+
+
+.buton3{
+    height: 50px;
+    width: 90%;
+    background-color: #387dd19d;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.buton3{
+    color: blue;
+}
