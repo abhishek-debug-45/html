@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto";
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    background:url(mount1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.box{
+    height: 400px;
+    width: 300px;
+    background-color:rgba(26, 128, 0, 0.465);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h3{
+    color: white;
+}
+
+.b2{
+    width: 280px;
+}
+
+.b1{
+    width: 280px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.b3{
+    width: 120px;
+    height: 30px;
+    background-color:rgb(192, 23, 107);
+    border: 0px;
+    color: white;
+}
+
+.b5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
